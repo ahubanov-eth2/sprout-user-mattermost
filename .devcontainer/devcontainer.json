@@ -21,7 +21,7 @@
 		}
 	},
 	"postCreateCommand": [
-		".devcontainer/mattermost/setup.sh"
+		".devcontainer/setup.sh"
 	],
 	"postAttachCommand": "code --install-extension /workspaces/sprout-user/sprout-0.0.1.vsix",
 	"customizations": {
