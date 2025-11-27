@@ -39,6 +39,7 @@
 	"containerEnv": {
 		"DYNAMIC_REPO_PATH": "mattermost/mattermost",
 		"COMMIT": "603c26a5bcda365917285b8f32c6982e170c5cd3",
-		"PARENT_COMMIT": "632b231283"
+		"PARENT_COMMIT": "632b231283",
+		"SPROUT_COURSE_NAME": "course1"
 	}
 }
